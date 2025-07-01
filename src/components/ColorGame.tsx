@@ -1,4 +1,3 @@
-import React from "react";
 import { useColorStore } from "../store";
 
 export default function ColorGame() {
